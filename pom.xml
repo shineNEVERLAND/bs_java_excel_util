@@ -10,7 +10,7 @@
 
     <properties>
         <jxl-version>2.6.10</jxl-version>
-        <poi-ooxml-version>3.14</poi-ooxml-version>
+        <poi-ooxml-version>5.4.0</poi-ooxml-version>
         <poi-version>3.16</poi-version>
         <lombok-version>1.18.0</lombok-version>
     </properties>
